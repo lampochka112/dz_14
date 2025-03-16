@@ -10,7 +10,8 @@ class Stadium:
     def input_data(self):
          self.title = input("введите название стадиона")
         self.data = int(input("введите дату выпуска"))
-        self.country = input("введите страну")
+        self.country = inpu
+        t("введите страну")
         self.city = int(input("введите город"))
         self.capacity = input("введите вместительность")
 
